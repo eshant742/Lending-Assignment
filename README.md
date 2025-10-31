@@ -170,5 +170,3 @@ Here is a step-by-step test of the full contract lifecycle.
 <img width="885" height="183" alt="Image" src="https://github.com/user-attachments/assets/89c55048-7e24-434f-be8d-7984795eed12" />
 
 
-
-(Paste your `withdrawCollateral` transaction log here)
