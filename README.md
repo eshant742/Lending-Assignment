@@ -97,28 +97,78 @@ Here is a step-by-step test of the full contract lifecycle.
 
 ### Step 1: Minting Tokens
 
-(Paste your `mint` transaction logs here)
+<img width="1513" height="410" alt="Image" src="https://github.com/user-attachments/assets/5350052f-9533-483b-a8a5-532c2085b0f6" />
+<img width="968" height="399" alt="Image" src="https://github.com/user-attachments/assets/5bad4437-b48c-4898-8226-e211d982294c" />
+<img width="1209" height="462" alt="Image" src="https://github.com/user-attachments/assets/103fa5a3-68e6-4384-baf2-e0b37b74769c" />
+<img width="1185" height="356" alt="Image" src="https://github.com/user-attachments/assets/59153aae-8f51-4435-83a1-beac298026e5" />
+<img width="1524" height="438" alt="Image" src="https://github.com/user-attachments/assets/f298b195-b8c0-4ea0-8f83-428a741616ff" />
+<img width="1065" height="408" alt="Image" src="https://github.com/user-attachments/assets/df5faeb6-9c19-44bf-ad04-3ac32e63b588" />
+<img width="1191" height="266" alt="Image" src="https://github.com/user-attachments/assets/edf46fda-68d2-44b8-b2e9-d79b96a14184" />
+<img width="1156" height="409" alt="Image" src="https://github.com/user-attachments/assets/4c7f68d7-028e-4729-9374-a0f0655f4d56" />
+
+
+
+
+
+
 
 ### Step 2: Approving the Lending Contract
 
-(Paste your `approve` transaction logs here)
+
+
+
+
+
+<img width="1334" height="452" alt="Image" src="https://github.com/user-attachments/assets/22c8b4cf-57b2-41c3-a065-353ebdd888e4" />
+<img width="1135" height="472" alt="Image" src="https://github.com/user-attachments/assets/275cd31c-e426-474d-9b49-2456794558e4" />
+<img width="1079" height="365" alt="Image" src="https://github.com/user-attachments/assets/c2904b84-9ef0-4d6b-bd90-2a72fa418bab" />
+<img width="1327" height="458" alt="Image" src="https://github.com/user-attachments/assets/01c615c0-7b72-4651-a76e-f20ffbe34366" />
+<img width="1115" height="476" alt="Image" src="https://github.com/user-attachments/assets/5d3c1ee9-322a-48d2-bab6-9ef678861803" />
+<img width="1074" height="383" alt="Image" src="https://github.com/user-attachments/assets/83f38cf6-0832-461f-b59a-b852fc5baec4" />
 
 ### Step 3: Depositing Lending (Token A)
 
-(Paste your `deposit` transaction log here)
+
+
+
+
+
+<img width="1308" height="485" alt="Image" src="https://github.com/user-attachments/assets/afaa1724-7d91-46f5-8dad-234dd9556fa8" />
+<img width="1070" height="479" alt="Image" src="https://github.com/user-attachments/assets/aa6bf6ec-b4ac-4dff-b7d0-bb86a2e3789e" />
+<img width="1098" height="466" alt="Image" src="https://github.com/user-attachments/assets/1df71606-b8a2-40d3-99e4-afa4af8d0795" />
+<img width="1070" height="329" alt="Image" src="https://github.com/user-attachments/assets/5762178e-99f0-4dfc-bac7-1ca143c08d87" />
+<img width="1202" height="467" alt="Image" src="https://github.com/user-attachments/assets/fb58a653-1d21-4ad1-a24b-15eaefbd5148" />
+<img width="831" height="313" alt="Image" src="https://github.com/user-attachments/assets/d8d7e307-4039-4a66-8140-186324d54a88" />
 
 ### Step 4: Borrowing (Token A) using Collateral (Token B)
 
-(Paste your `borrow` transaction log here)
+
+
+<img width="1336" height="488" alt="Image" src="https://github.com/user-attachments/assets/801127da-4300-48c7-b89a-22bfb4dc4520" />
+<img width="1232" height="487" alt="Image" src="https://github.com/user-attachments/assets/eef4f8a3-d562-44d5-ad52-443ba733a297" />
+<img width="1267" height="485" alt="Image" src="https://github.com/user-attachments/assets/539f88fd-7d71-4df3-acc9-dcffc89d441f" />
+<img width="1216" height="470" alt="Image" src="https://github.com/user-attachments/assets/8062c550-13f0-4fc6-a032-c34be43d4c80" />
+<img width="1597" height="408" alt="Image" src="https://github.com/user-attachments/assets/9a9ad209-6d04-41a8-84f7-3bfbd56d8186" />
+
+
 
 ### Step 5: Checking Health Factor
 
-(Paste your `getHealthFactor` call log here)
+<img width="1034" height="519" alt="Image" src="https://github.com/user-attachments/assets/b03f398f-4d07-46c3-ab82-c2fae1387091" />
 
 ### Step 6: Repaying the Loan (with Interest)
 
-(Paste your `repay` transaction log here)
+<img width="1137" height="527" alt="Image" src="https://github.com/user-attachments/assets/2ec1de93-f894-430c-afa8-0c524cf879e5" />
+<img width="1090" height="482" alt="Image" src="https://github.com/user-attachments/assets/3776c837-53b4-4118-a139-24e007217be3" />
+<img width="1412" height="500" alt="Image" src="https://github.com/user-attachments/assets/fbccbe9e-54f4-4ef8-95fb-3e767f6623b8" />
+
+
 
 ### Step 7: Withdrawing Collateral
+<img width="1229" height="496" alt="Image" src="https://github.com/user-attachments/assets/93644c0d-ff9e-4534-8d82-bc475945012c" />
+<img width="941" height="493" alt="Image" src="https://github.com/user-attachments/assets/64031ed4-ed7f-4bc9-b4be-76be1c69b787" />
+<img width="885" height="183" alt="Image" src="https://github.com/user-attachments/assets/89c55048-7e24-434f-be8d-7984795eed12" />
+
+
 
 (Paste your `withdrawCollateral` transaction log here)
